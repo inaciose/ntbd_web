@@ -3,6 +3,9 @@ Robotic arm control and visualization web files for the ntbd project
 
 This repository contains the web files for the ntbd robotic arm control.
 
+Software copied from the ntbd project by HotBlackRobotics at: https://github.com/HotBlackRobotics/ntbd
+Just small changes to work outside docker and removed support for leap motion device.
+
 # ntbd_ web requirements
 
 Depend on the following ros packages:
